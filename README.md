@@ -17,5 +17,10 @@ Hackthebox
 https://app.hackthebox.com/profile/400988
 
 Tryhackme
-<script src="https://tryhackme.com/badge/73986"></script>
+https://tryhackme.com/p/kamiyamasama
 
+Freecodecamp
+https://www.freecodecamp.org/fcc13ac15e9-6394-4d52-8877-00ade87bed9e
+
+Leetcode
+https://leetcode.com/NyanSunbo/
