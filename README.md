@@ -10,9 +10,6 @@ https://www.datacamp.com/profile/NyanSunbo
 Codecademy
 https://www.codecademy.com/profiles/NyanSunbo
 
-Brilliant
-https://brilliant.org/profile/nyansunbo-w6x430/stats/
-
 Hackthebox
 https://app.hackthebox.com/profile/400988
 
