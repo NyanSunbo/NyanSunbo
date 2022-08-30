@@ -3,6 +3,7 @@ https://exercism.org/profiles/NyanSunbo
 
 Codewars
 https://www.codewars.com/users/NyanSunbo
+![Tux, the Linux mascot](https://www.codewars.com/users/NyanSunbo/badges/large)
 
 Datacamp
 https://www.datacamp.com/profile/NyanSunbo
