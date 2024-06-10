@@ -5,18 +5,3 @@
 
 
 
-
-Exercism
-https://exercism.org/profiles/NyanSunbo
-
-Datacamp
-https://www.datacamp.com/profile/NyanSunbo
-
-Codecademy
-https://www.codecademy.com/profiles/NyanSunbo
-
-Freecodecamp
-https://www.freecodecamp.org/fcc13ac15e9-6394-4d52-8877-00ade87bed9e
-
-Leetcode
-https://leetcode.com/NyanSunbo/
